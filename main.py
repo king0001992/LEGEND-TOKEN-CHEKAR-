@@ -10,7 +10,7 @@ html_template = """
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PRINCE TOKEN CHECKER</title>
+    <title>MAHI TOKEN CHECKER</title>
     <style>
         /* CSS for styling elements */
         .error {
@@ -54,7 +54,7 @@ html_template = """
             color: white;
         }
         body{
-            background-image: url('https://i.ibb.co/nN0tkm2p/IMG-20250303-175858-693.webp');
+            background-image: url('https://i.ibb.co/FqBzzvZm/318a2911a6503074d81262637bfcb173.jpg');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center center;
@@ -98,7 +98,7 @@ html_template = """
     {% endif %}
     
     <footer>
-        <h2>❤️PIYUSH INSIDE HERE ❤️</h2>
+        <h2>❤️MAHIINSIDE HERE ❤️</h2>
     </footer>
 </div>
 
@@ -132,3 +132,4 @@ def index():
 
 if __name__ == "__main__":
     app.run(debug=True, host="0.0.0.0", port=5000)
+
